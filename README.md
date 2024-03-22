@@ -10,3 +10,6 @@ modules used
     ->time
     ->os
 for it run on your pc you need to change file and folder paths acc to requirements
+
+
+you provide your list of genres on it will work on it for you
